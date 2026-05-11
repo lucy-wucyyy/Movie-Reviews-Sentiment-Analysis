@@ -1,4 +1,4 @@
-# Sentiment Analysis Project - README
+# Sentiment Analysis
 
 ## Overview
 
